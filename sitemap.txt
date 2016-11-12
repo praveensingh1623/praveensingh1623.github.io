@@ -1,8 +1,0 @@
-http://hackism.net/
-http://hackism.net/tuts/
-http://hackism.net/tuts/blind-sql-injection.html
-http://hackism.net/tuts/terminal-matrix-effects.html
-http://hackism.net/tuts/ping-of-death-pod-attack-with-cmd.html
-http://hackism.net/tuts/disturb-denial-of-service-ddos-attack-with-cmd.html
-http://hackism.net/tuts/how-to-hack-android-phone.html
-http://hackism.net/tuts/hacking-apps-android
