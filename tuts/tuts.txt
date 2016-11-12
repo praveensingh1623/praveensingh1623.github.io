@@ -1,0 +1,10 @@
+Ping To Death Tutorial
+http://hackism.net/tuts/ping-of-death-attack-using-cmd.html
+Blind SQL Injections Tutorial
+http://hackism.net/tuts/blind-sql-injection.html
+Disturb Denial of Service Attack Tutorial
+http://hackism.net/tuts/disturb-denial-of-service-ddos-attack-with-cmd.html
+Hack Any Android Phone 
+http://hackism.net/tuts/how-to-hack-android-phone.html
+Get Matrix Effects In Terminal
+http://hackism.net/tuts/terminal-matrix-effects.html

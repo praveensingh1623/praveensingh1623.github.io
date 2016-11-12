@@ -1,0 +1,4 @@
+#Force non-www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.hackism\.net [NC]
+RewriteRule ^(.*)$ http://hackism.net/$1 [L,R=301]
